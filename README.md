@@ -1,5 +1,3 @@
-garlicbread
-===========
 
 Project Pet Node - Easy management of pet information with food nutrition comparisons
 
